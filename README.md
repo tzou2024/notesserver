@@ -1,1 +1,3 @@
 # NotesServer
+
+![ERD](erd.png)
